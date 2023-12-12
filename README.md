@@ -1,5 +1,7 @@
 ## Installing the pre-requisites
 
+Run the below command in the terminal of the same folder
+
 pip install -r requirements.txt --upgrade
 
 ## Training the model
